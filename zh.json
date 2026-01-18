@@ -84,7 +84,8 @@
     "select_language": "选择语言",
     "individual_output_rates": "单项产出效率",
     "lang_indep_info": "语言无关信息",
-    "lang_dep_info": "语言相关信息"
+    "lang_dep_info": "语言相关信息",
+    "select_all": "选择全部"
   },
   "create_profile": {
     "username_criteria": "用户名长度需为 3-30 个字符，仅允许字母、数字、下划线和连字符",

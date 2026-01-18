@@ -84,7 +84,8 @@
     "select_language": "Select language",
     "individual_output_rates": "Individual Output Rates",
     "lang_indep_info": "Language Independent Info",
-    "lang_dep_info": "Language Dependent Info"
+    "lang_dep_info": "Language Dependent Info",
+    "select_all": "Select All"
   },
   "create_profile": {
     "username_criteria": "Username must be 3-30 characters: letters, numbers, underscore, hyphen only",
