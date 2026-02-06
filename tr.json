@@ -96,9 +96,9 @@
   "dashboard": {
     "edit_post": "Paylaşımı düzenle",
     "edit_translation": "{{tr}} çevirisini düzenle",
-    "add_new_translation": "Add new translation",
-    "delete_post": "Delete post",
-    "delete_confirmation": "Are you sure you want to delete \"{{title}}\"?"
+    "add_new_translation": "Yeni Çeviri ekle",
+    "delete_post": "Paylaşımı sil",
+    "delete_confirmation": "\"{{title}}\" İsimli paylaşımı sil?"
   },
   "edit_post": {
     "success_message":"Paylaşım başarıyla güncellendi",
