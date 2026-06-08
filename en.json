@@ -95,6 +95,7 @@
   },
   "dashboard": {
     "edit_post": "Edit post",
+    "edit_post_files": "Edit post files",
     "edit_translation": "Edit {{tr}} translation",
     "add_new_translation": "Add new translation",
     "delete_post": "Delete post",

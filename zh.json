@@ -95,6 +95,7 @@
   },
   "dashboard": {
     "edit_post": "编辑帖子",
+    "edit_post_files": "编辑帖子文件",
     "edit_translation": "编辑 {{tr}} 翻译",
     "add_new_translation": "添加新翻译",
     "delete_post": "删除帖子",

@@ -95,6 +95,7 @@
   },
   "dashboard": {
     "edit_post": "Paylaşımı düzenle",
+    "edit_post_files": "Paylaşım dosyalarını düzenle",
     "edit_translation": "{{tr}} çevirisini düzenle",
     "add_new_translation": "Yeni Çeviri ekle",
     "delete_post": "Paylaşımı sil",
