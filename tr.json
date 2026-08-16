@@ -39,7 +39,11 @@
     "register": "Register",
     "recommended": "ÖNERİLİYOR",
     "page": "Sayfa",
-    "title": "Başlık"
+    "title": "Başlık",
+    "extra": "Diğer",
+    "sources": "Kaynaklar",
+    "select_1_source": "Lütfen en az bir kaynak seçin!",
+    "unknown": "Bilinmiyor"
   },
   "home": {
     "heading": "Tasarımları Keşfet",
@@ -172,7 +176,9 @@
     "total_rates": "Toplam Verime Göre",
     "htl": "Hızlıdan Yavaşa",
     "lth": "Yavaştan Hızlıya",
-    "other_lang_tag": "Diğer Diller"
+    "other_lang_tag": "Diğer Diller",
+    "popular": "Popüler",
+    "downloads": "İndirmeler"
   },
   "profile": {
     "more": "Fazlası",

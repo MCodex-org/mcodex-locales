@@ -39,7 +39,11 @@
     "register": "Register",
     "recommended": "RECOMMENDED",
     "page": "Page",
-    "title": "Title"
+    "title": "Title",
+    "extra": "Extra",
+    "sources": "Sources",
+    "select_1_source": "Select at least one source!",
+    "unknown": "Unknown"
   },
   "home": {
     "heading": "Share & Discover Builds",
@@ -172,7 +176,9 @@
     "total_rates": "Total Rates",
     "htl": "High to Low",
     "lth": "Low to High",
-    "other_lang_tag": "Other Languages"
+    "other_lang_tag": "Other Languages",
+    "popular": "Popular",
+    "downloads": "Downloads"
   },
   "profile": {
     "more": "more",

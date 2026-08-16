@@ -39,7 +39,11 @@
     "register": "注册",
     "recommended": "推荐",
     "page": "页面",
-    "title": "标题"
+    "title": "标题",
+    "extra": "其他",
+    "sources": "来源",
+    "select_1_source": "请至少选择一个来源！",
+    "unknown": "未知"
   },
   "home": {
     "heading": "探索与分享设计",
@@ -172,7 +176,9 @@
     "total_rates": "总产出率",
     "htl": "从高到低",
     "lth": "从低到高",
-    "other_lang_tag": "其他语言"
+    "other_lang_tag": "其他语言",
+    "popular": "热门",
+    "downloads": "下载量"
   },
   "profile": {
     "more": "更多",
